@@ -2,7 +2,7 @@
 Machine Learning exercises - Coursera  https://www.coursera.org/learn/machine-learning
 
 Machine Learning by Andrew Ng of Stanford University takes beginners through the rudimentary aspects of Machine Learning
-Linear Regression, Logistic Regression, all up to Neural Networks
+Linear Regression, Logistic Regression, Support Vector Machines all up to Neural Networks
 
 Taking this course, I worked through the exercises and this Repo holds solutions to those exercises. 
 
